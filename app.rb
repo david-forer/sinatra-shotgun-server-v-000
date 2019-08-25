@@ -6,6 +6,8 @@ class App < Sinatra::Base
     "Welcome to your app!!!! I BUILT THIS! SO Exciting!"
     
     "Started my server using Shotgun!"
+    
+    
   end
 
 end
